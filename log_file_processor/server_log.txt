@@ -1,0 +1,4 @@
+INFO: Server started successfully
+ERROR: Failed to connect to the database
+INFO: User login successful
+ERROR: User authentication failed
